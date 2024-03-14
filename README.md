@@ -1,5 +1,7 @@
 # GraphQL API
 
+Basic concepts.
+
 ## First steps
 
 1. Initialize npm:
